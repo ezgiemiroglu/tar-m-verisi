@@ -1,2 +1,2 @@
-# tar-m-verisi
+# tarim-verisi
 Tarım Ürünlerine Ait Bilgi
